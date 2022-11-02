@@ -36,20 +36,24 @@ params:
 
 
   homeInfoParams:
-      title: "hej! \U0001F44B"
-      content: Welcome
+      title: "hello, i'm Marcos! \U0001F44B"
+      content: hardware + radar mmWave researcher, AI lecturer
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/margobra8"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/6688601"
+    - name: twitter
+      url: "https://twitter.com/usualmarcos/"
+    - name: spotify
+      url: "https://open.spotify.com/user/markergom"
+    - name: email
+      url: "mailto:marcos.gomez+web@ieee.org"
 
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/margobra8/margobra8.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

@@ -5,6 +5,7 @@ tags:
 - opinión
 images:
 - "https://images.pexels.com/photos/1792063/pexels-photo-1792063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+draft: true
 ---
 Si piensas un poco como yo, los monopolios son algo *aterrador*. El poder absoluto que puede llegar a tener una empresa sobre el mercado, controlando todo lo que ocurre en un sector, no es precisamente algo que me agrade. Por eso, si piensas un poco como yo, Disney quizás no sea del todo un sueño hecho realidad, a veces, se acerca más a una pesadilla.
 
