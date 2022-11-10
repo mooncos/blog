@@ -82,7 +82,7 @@ menu:
       url: /tags/
       weight: 20
     - identifier: no-web3
-      name: "🛇 web3"
+      name: "❌ web3"
       url: https://yesterweb.org/no-to-web3/
       weight: 30
 
@@ -122,7 +122,7 @@ languages:
           url: /tags/
           weight: 20
         - identifier: no-web3
-          name: "🛇 web3"
+          name: "❌ web3"
           url: https://yesterweb.org/no-to-web3/
           weight: 30
     weight: 1
