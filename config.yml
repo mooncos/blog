@@ -1,5 +1,6 @@
 baseURL: https://marquitos.space/
-languageCode: en-gb
+languageCode: es
+defaultContentLanguage: es
 title: marquitos.space
 
 theme: "PaperMod"
@@ -17,10 +18,11 @@ params:
   env: production
   title: marquitos.space
   keywords: [blog, portfolio, marquitos]
-  author: Me
-  DateFormat: "January 2, 2006"
+  author: Marcos
+  DateFormat: "9 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  displayFullLangName: true
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -36,8 +38,11 @@ params:
 
 
   homeInfoParams:
-      title: "hello, i'm Marcos! \U0001F44B"
-      content: hardware + radar mmWave researcher, AI lecturer
+      title: "hi, i'm Marcos! \U0001F44B"
+      imageUrl: "https://unavatar.io/twitter/rollitomaki"
+      imageWidth: 80 # custom size
+      imageHeight: 80 # custom size
+      content: hardware + radar researcher [SSR-ETSIT-UPM](https://ssr.upm.es/). lecturer [saturdays.ai](https://saturdays.ai)
 
   socialIcons:
     - name: github
@@ -45,7 +50,7 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com/users/6688601"
     - name: twitter
-      url: "https://twitter.com/usualmarcos/"
+      url: "https://twitter.com/rollitomaki/"
     - name: spotify
       url: "https://open.spotify.com/user/markergom"
     - name: email
@@ -54,7 +59,7 @@ params:
 
   editPost:
     URL: "https://github.com/margobra8/margobra8.github.io/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Suggest changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
   fuseOpts:
@@ -76,12 +81,48 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: no-web3
+      name: "🛇 web3"
+      url: https://yesterweb.org/no-to-web3/
       weight: 30
 
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+languages:
+  en:
+    languageName: "english"
+    weight: 2
+  es:
+    languageName: "spanish"
+    params:
+      homeInfoParams:
+        title: "¡hola, soy Marcos! \U0001F44B"
+        imageUrl: "https://unavatar.io/twitter/rollitomaki"
+        imageWidth: 80 # custom size
+        imageHeight: 80 # custom size
+        content: investigador hardware + radar [SSR-ETSIT-UPM](https://ssr.upm.es/). profesor [saturdays.ai](https://saturdays.ai)
+      editPost:
+        URL: "https://github.com/margobra8/margobra8.github.io/content"
+        Text: "Sugerir cambios" # edit text
+        appendFilePath: true # to append file path to Edit link
+    menu:
+      main:
+        - identifier: categorías
+          name: categorías
+          url: /categories/
+          weight: 10
+        - identifier: etiquetas
+          name: etiquetas
+          url: /tags/
+          weight: 20
+        - identifier: no-web3
+          name: "🛇 web3"
+          url: https://yesterweb.org/no-to-web3/
+          weight: 30
+    weight: 1

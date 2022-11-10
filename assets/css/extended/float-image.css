@@ -1,0 +1,17 @@
+@media only screen and (min-width: 768px) {
+    .left-float-image {
+        float: left;
+        width: 15vw;
+        margin-right: 2em;
+        margin-bottom: 0 !important;
+    }
+
+    .left-float-image > figcaption {
+        margin: 8px 0 0 !important;
+    }
+
+    .left-float-image > figcaption > p {
+        margin: 0 !important;
+    }
+
+}
