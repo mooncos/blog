@@ -19,7 +19,7 @@ categories:
 
 ## No estamos preparados para usar las redes sociales
 
-Hay algo en las redes sociales para lo que los seres humanos no están psicológicamente preparados. Es una abstracción perversa y antinatural de la comunidad social humana a la que nuestro cerebro no reacciona bien. Como facsímil de la auténtica humanidad, se sumerge en algo parecido a el "valle inquietante"[^1] para las interacciones sociales. Podría ser, por lo que conocemos, que la razón principal por la que alguien publique en las redes sociales sea la indignación. Si se hiciera un estudio en condiciones, apuesto a que demostraría exactamente esto.
+Hay algo en las redes sociales para lo que los seres humanos no están psicológicamente preparados. Es una abstracción perversa y antinatural de la comunidad social humana a la que nuestro cerebro no reacciona bien. Como facsímil de la auténtica humanidad, se sumerge en algo parecido al "valle inquietante"[^1] para las interacciones sociales. Podría ser, por lo que conocemos, que la razón principal por la que alguien publique en las redes sociales sea la indignación. Si se hiciera un estudio en condiciones, apuesto a que demostraría exactamente esto.
 
 ## Hemos hecho de la adicción una necesidad
 
