@@ -42,7 +42,7 @@ Con la experiencia (aunque poca) que tengo en diseño de UI, puedo precisamente 
 Las marcas de tiempo *(timestamps)* relativas, como "hace 2 horas" en lugar de 15:34, crean una sensación de **Inmediatez**,
 hacen que todo parezca inmediato y sensible al tiempo.
 
-Esto es esencial para las empresas detrás de las redes sociales porque, de lo contrario, estas interacciones textuales pueden parecer asíncronas. Esa es la ventaja del correo electrónico: que tú puedes responder cuando quieras. Sin marcas de tiempo relativas, las redes se parecerían un poco más a un foro de Internet o una BBS[^4] de antaño, y menos como un servicio de de mensajería instantánea. Este minúsculo cambio de característica tiene un gran impacto: provoca el aumento en el subconscientemente del síndrome FOMO[^5] (Fear of Missing Out), lo que estimula patrones de uso más prolongados y frecuentes, a costa de la salud mental del usuario.
+Esto es esencial para las empresas detrás de las redes sociales porque, de lo contrario, estas interacciones textuales pueden parecer asíncronas. Esa es la ventaja del correo electrónico: que tú puedes responder cuando quieras. Sin marcas de tiempo relativas, las redes se parecerían un poco más a un foro de Internet o una BBS[^4] de antaño, y menos como un servicio de de mensajería instantánea. Este minúsculo cambio de característica tiene un gran impacto: provoca el aumento en el subconsciente del síndrome FOMO[^5] (Fear of Missing Out), lo que estimula patrones de uso más prolongados y frecuentes, a costa de la salud mental del usuario.
 
 ### Perpetuidad: Scroll infinito
 
