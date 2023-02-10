@@ -1,7 +1,7 @@
 ---
 title: "Menos es más: Las ventajas de los lenguajes de programación tersos y funcionales"
 date: 2023-02-09T10:26:41Z
-draft: true
+draft: false
 summary: "Los lenguajes de programación tersos, que normalmente incluyen características de programación funcional, pueden simplificar la comprensión y el desarrollo de código en tus proyectos. En este artículo se explora la refactorización de código de un problema para reducir el número de líneas de código en un 80%"
 cover:
     image: "algo.jpg"
