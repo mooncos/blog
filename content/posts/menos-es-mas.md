@@ -352,7 +352,7 @@ Se puede observar cómo *C* tiene un elevado número de instrucciones incluso co
 
 No obstante, el claro vencedor en esta batalla es *Rust* que genera un ejecutable con un increíble **total de 50 instrucciones**, verdaderamente asombroso. El compilador de rust, *rustc*, es alardeado como muy muy eficiente y es un esfuerzo increíble de la comunidad opensource que desarrolla el lenguaje, está basado en [LLVM](https://llvm.org/), al igual que *clang*, pero está muy optimizado para sólo incluir en el programa las librerías enlazadas y funciones estrictamente necesarias en cada compilación.
 
-*Rust* además tiene una [documentación](https://doc.rust-lang.org/beta/) increíble y un [tutorial para aprender el lenguaje en forma de libro](https://doc.rust-lang.org/stable/book/) que es muy llevadero. Estoy explorando y aprendiendo este lenguaje y la verdad que estoy muy sorprendido de las ventajas que tiene a pesar de su curva de aprendizaje difícil.
+*Rust* además tiene una [documentación](https://doc.rust-lang.org/beta/) increíble y un [tutorial](https://doc.rust-lang.org/stable/book/) para aprender el lenguaje en forma de libro que es muy llevadero. Estoy explorando y aprendiendo este lenguaje y la verdad que estoy muy sorprendido de las ventajas que tiene a pesar de su curva de aprendizaje difícil.
 
 Si te has quedado con las ganas de explorar más la programación funcional y ver ejemplos de como implementarla en *Rust*, puedes leer más en [este maravilloso post de Sylvain Kerkour](https://kerkour.com/rust-functional-programming).
 
