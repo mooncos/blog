@@ -174,7 +174,7 @@ En donde se utilizará primero un argumento, luego otro y finalmente devolverá 
 ```haskell
 calculate bottom top = sum $ filter even [bottom..top]
 ```
-Esta es la definición de la función. Primero se especifica el nombre de la función que se define y luego el conjunto de argumentos que serán procesados. *Haskell* permite también varias definiciones de una misma función dependiendo de los argumentos que se usen o especifiquen, pero [esto es algo más complejo fuera del objetivo de este post](https://www.cmi.ac.in/~madhavan/courses/pl2009/lecturenotes/lecture-notes/node70.html).
+Esta es la definición de la función. Primero se especifica el nombre de la función que se define y luego el conjunto de argumentos que serán procesados. *Haskell* permite también varias definiciones de una misma función dependiendo de los argumentos que se usen o especifiquen, pero [esto](https://www.cmi.ac.in/~madhavan/courses/pl2009/lecturenotes/lecture-notes/node70.html) es algo más complejo fuera del objetivo de este post.
 
 En *Haskell* la apliación de funciones sobre variables o valores se hace con la notación espacio:
 ```haskell
