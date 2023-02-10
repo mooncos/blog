@@ -222,7 +222,7 @@ Por último tenemos algo así:
 ```txt
 suma(r_pares)
 ```
-Lo último que queda es sumar todos los elementos del array filtrado. En *Haskell* hay una función que realiza esto y es [`sum`](http://zvon.org/other/haskell/Outputprelude/sum_f.html), que toma un iterable (array) como argumento y devueve la suma. En nuestro caso , la suma se debe realizar sólo sobre los números pares (los ya filtrados) y por lo tanto esta operación deberá hacerse al final de todo y una vez todo el filtrado se haya realizado. Por ello es necesario utilizar el operador `$` para la suma, pues `sum` debe esperar a que se calcule todo el nuevo array para sumar los elementos. Esto se consigue haciendo:
+Lo último que queda es sumar todos los elementos del array filtrado. En *Haskell* hay una función que realiza esto y es [`sum`](http://zvon.org/other/haskell/Outputprelude/sum_f.html), que toma un iterable (array) como argumento y devueve la suma. En nuestro caso, la suma se debe realizar sólo sobre los números pares (los ya filtrados) y por lo tanto esta operación deberá hacerse al final de todo y una vez todo el filtrado se haya realizado. Por ello es necesario utilizar el operador `$` para la suma, pues `sum` debe esperar a que se calcule todo el nuevo array para sumar los elementos. Esto se consigue haciendo:
 ```haskell
 sum $ r_pares
 ```
