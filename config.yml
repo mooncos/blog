@@ -3,7 +3,7 @@ languageCode: es
 defaultContentLanguage: es
 title: marquitos.space
 
-theme: "PaperMod"
+theme: ["hugo-chart", "PaperMod"]
 
 buildDrafts: false
 buildFuture: false
@@ -70,6 +70,8 @@ params:
     threshold: 0.4
     minMatchCharLength: 2
     keys: ["title", "permalink", "summary", "content"]
+  assets:
+    disableHLJS: true
 
 menu:
   main:
@@ -90,6 +92,9 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+    codeFences: true
+    style: dracula
+
   goldmark:
     renderer:
       unsafe: true

@@ -1,0 +1,7 @@
+.chroma {
+    background-color: unset !important;
+}
+.chartjs-render-monitor {
+  background-color: white;
+  border-radius: var(--radius);
+}
