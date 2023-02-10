@@ -354,7 +354,7 @@ No obstante, el claro vencedor en esta batalla es *Rust* que genera un ejecutabl
 
 *Rust* además tiene una [documentación](https://doc.rust-lang.org/beta/) increíble y un [tutorial](https://doc.rust-lang.org/stable/book/) para aprender el lenguaje en forma de libro que es muy llevadero. Estoy explorando y aprendiendo este lenguaje y la verdad que estoy muy sorprendido de las ventajas que tiene a pesar de su curva de aprendizaje difícil.
 
-Si te has quedado con las ganas de explorar más la programación funcional y ver ejemplos de como implementarla en *Rust*, puedes leer más en [este maravilloso post de Sylvain Kerkour](https://kerkour.com/rust-functional-programming).
+Si te has quedado con las ganas de explorar más la programación funcional y ver ejemplos de como implementarla en *Rust*, puedes leer más en este maravilloso[post](https://kerkour.com/rust-functional-programming) de Sylvain Kerkour.
 
 ## Una cosa más...
 
