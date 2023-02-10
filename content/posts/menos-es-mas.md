@@ -358,4 +358,4 @@ Si te has quedado con las ganas de explorar más la programación funcional y ve
 
 ## Una cosa más...
 
-La programación funcional está en mil sitios, también en lenguajes más populares como Python. Estate atentx para un próximo blog sobre cómo mejorar tu código aplicando conceptos de programación funcional en programas escritos en Python :)
+La programación funcional está en mil sitios, también en lenguajes más populares como Python. Estate atentx para un próximo post sobre cómo mejorar tu código aplicando conceptos de programación funcional en programas escritos en Python :)
