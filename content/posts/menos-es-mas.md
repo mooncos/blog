@@ -242,7 +242,7 @@ fn calculate(bottom: i32, top: i32) -> i32 {
 ```
 Esta solución tiene **2 SLOC**, igual que la solución implementada en *Haskell*. Lo primero que observamos es que la sintaxis es muy similar a *C* en el estilo de declaración y definición de la función con sus argumentos. Vamos línea a línea:
 
-*Línea 1*
+**Línea 1**
 ```rust
 fn calculate(bottom: i32, top: i32) -> i32
 ```
@@ -250,7 +250,7 @@ En esta línea declaramos la función con los parámteros que toma, el tipo de c
 
 El tipo entero con signo de *Rust* por defecto es `i32`, un entero con signo de 32 bits. Usamos este tipo para todos los argumentos de la función y para el tipo de resultado que devuelve. Entre corchetes, se expresa entonces la definición de la función (lo que hace).
 
-*Línea 2*
+**Línea 2**
 ```rust
 (bottom..=top).filter(|e| e % 2 == 0).sum()
 ```
