@@ -19,7 +19,7 @@ params:
   title: marquitos.space
   keywords: [blog, portfolio, marquitos]
   author: Marcos
-  DateFormat: "9 January 2006"
+  DateFormat: "1 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   displayFullLangName: true
