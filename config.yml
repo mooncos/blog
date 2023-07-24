@@ -108,7 +108,7 @@ languages:
     params:
       homeInfoParams:
         title: "¡hola, soy Marcos! \U0001F44B"
-        imageUrl: "https://unavatar.io/twitter/rollitomaki"
+        imageUrl: "https://i.imgur.com/kKyz6c5.jpg"
         imageWidth: 80 # custom size
         imageHeight: 80 # custom size
         content: investigador hardware + radar [SSR-ETSIT-UPM](https://ssr.upm.es/). profesor [saturdays.ai](https://saturdays.ai)
