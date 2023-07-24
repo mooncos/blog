@@ -39,7 +39,7 @@ params:
 
   homeInfoParams:
       title: "hi, i'm Marcos! \U0001F44B"
-      imageUrl: "https://unavatar.io/twitter/rollitomaki"
+      imageUrl: "https://i.imgur.com/kKyz6c5.jpg"
       imageWidth: 80 # custom size
       imageHeight: 80 # custom size
       content: hardware + radar researcher [SSR-ETSIT-UPM](https://ssr.upm.es/). lecturer [saturdays.ai](https://saturdays.ai)
