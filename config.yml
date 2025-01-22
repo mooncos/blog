@@ -1,4 +1,4 @@
-baseURL: https://marquitos.space/
+baseURL: https://mooncos.github.io/blog/
 languageCode: es
 defaultContentLanguage: es
 title: marquitos.space
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production
-  title: marquitos.space
+  title: Marcos Gómez
   keywords: [blog, portfolio, marquitos]
   author: Marcos
   DateFormat: "1 January 2006"
